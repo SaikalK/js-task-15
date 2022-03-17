@@ -1,0 +1,22 @@
+* {
+    margin: 1em;
+    padding: 1em;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.banner {
+    display: flex;
+}
